@@ -1,0 +1,1 @@
+# mnist_training_without_fc_layer
